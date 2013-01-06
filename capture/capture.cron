@@ -1,1 +1,1 @@
-* * * * * bash /home/mspitz/src/eckleburg/capture/capture_single.sh
+*/15 * * * * bash /home/mspitz/src/eckleburg/capture/capture_single.sh
